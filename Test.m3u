@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cctv1",CCTV-1综合
+http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8
+#EXTINF:-1 tvg-id="cctv2",CCTV-2财经
+http://112.50.243.10/PLTV/88888888/224/3221225800/1.m3u8
+#EXTINF:-1 tvg-id="cctv3",CCTV-3综艺
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-id="cctv4",CCTV-4中文国际
+http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/1.m3u8
+#EXTINF:-1 tvg-id="cctv5",CCTV-5体育
+http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 tvg-id="cctv6",CCTV-6电影
+http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-id="cctv7",CCTV-7军事农业
+http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
+#EXTINF:-1 tvg-id="cctv8",CCTV-8电视剧
+http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 tvg-id="cctv9",CCTV-9记录
+http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+#EXTINF:-1 tvg-id="cctv10",CCTV-10科教
+http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8
+#EXTINF:-1 tvg-id="cctv11",CCTV-11戏曲
+http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+#EXTINF:-1 tvg-id="cctv12",CCTV-12社会与法
+http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1 tvg-id="cctv13",CCTV-13新闻
+http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+#EXTINF:-1 tvg-id="cctvchild",CCTV-14少儿
+http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8
+#EXTINF:-1 tvg-id="cctv15",CCTV-15音乐
+http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 tvg-id="hunan",湖南卫视
+http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
+#EXTINF:-1 tvg-id="jiangsu,江苏卫视
+http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
+#EXTINF:-1 tvg-id="dongfang",东方卫视
+http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
+#EXTINF:-1 tvg-id="btv1",北京卫视
+http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8
+#EXTINF:-1 tvg-id="guangdong",广东卫视
+http://112.50.243.8/PLTV/88888888/224/3221225824/1.m3u8
+#EXTINF:-1 tvg-id="shenzhen",深圳卫视
+http://112.50.243.8/PLTV/88888888/224/3221225848/1.m3u8
+#EXTINF:-1 tvg-id="tianjin",天津卫视
+http://112.50.243.8/PLTV/88888888/224/3221225830/1.m3u8
+#EXTINF:-1 tvg-id="shandong",山东卫视
+http://112.50.243.8/PLTV/88888888/224/3221225843/1.m3u8
+#EXTINF:-1 tvg-id="chongqing",重庆卫视
+http://223.110.243.138/PLTV/3/224/3221227421/index.m3u8
+#EXTINF:-1 tvg-id="jiangxi",江西卫视
+http://112.50.243.8/PLTV/88888888/224/3221225868/1.m3u8
+#EXTINF:-1 tvg-id="heilongjiang",黑龙江卫视
+http://112.50.243.8/PLTV/88888888/224/3221225862/1.m3u8
+#EXTINF:-1 tvg-id="sichuan",四川卫视
+http://ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
+#EXTINF:-1 tvg-id="henan",河南卫视
+http://112.50.243.8/PLTV/88888888/224/3221225842/1.m3u8
+#EXTINF:-1 tvg-id="shan1xi",山西卫视
+http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
+#EXTINF:-1 tvg-id="yunnan",云南卫视
+http://112.50.243.8/PLTV/88888888/224/3221225853/1.m3u8
+#EXTINF:-1 tvg-id="travel",旅游卫视
+http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
+#EXTINF:-1,Newtv动作电影
+http://183.207.249.15/PLTV/3/224/3221225529/index.m3u8
+#EXTINF:-1,Newtv惊悚悬疑
+http://183.207.249.7/PLTV/3/224/3221225561/index.m3u8
+#EXTINF:-1,Newtv精品电影
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1,Newtv明星大片
+http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:-1,Newtv家庭剧场
+http://183.207.249.14/PLTV/3/224/3221225549/index.m3u8
+#EXTINF:-1,Newtv精品大剧
+http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8
+#EXTINF:-1,Newtv金牌综艺
+http://183.207.249.16/PLTV/3/224/3221225559/index.m3u8
+#EXTINF:-1,Newtv精品记录
+http://183.207.249.14/PLTV/3/224/3221225557/index.m3u8
+#EXTINF:-1,Newtv精品体育
+http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8
+#EXTINF:-1,Newtv北京纪实
+http://117.169.79.101:8080/PLTV/88888888/224/3221225764/index.m3u8
+#EXTINF:-1,Newtv纪实天下(电)
+rtsp://120.205.96.36:554/live/ch16022917175374294745.sdp?playtype=1&boid=001&backupagent=120.205.32.36:554&clienttype=1&time=20161205230814+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=&mediaid=ch16022917175374294745&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=&nodelevel=3
+#EXTINF:-1, SCTV
+https://kmklive-lh.akamaihd.net/i/sctv_live@577566/master.m3u8
+#EXTINF:-1, Indosiar
+https://kmklive-lh.akamaihd.net/i/indosiar_live@577566/master.m3u8
+#EXTINF:-1, Ochannel
+https://kmklive-lh.akamaihd.net/i/ochannel_live@577566/master.m3u8
+#EXTINF:-1, RCTI
+https://kmklive-lh.akamaihd.net/i/rcti_live@577566/master.m3u8
+#EXTINF:-1, Trans 7
+https://kmklive-lh.akamaihd.net/i/trans7_live@94476/master.m3u8
+#EXTINF:-1, Global TV
+https://kmklive-lh.akamaihd.net/i/globaltv_live@577566/master.m3u8
+#EXTINF:-1, Metro TV
+https://kmklive-lh.akamaihd.net/i/metrotv_live@577566/master.m3u8
+#EXTINF:-1, ANTV
+https://kmklive-lh.akamaihd.net/i/antv_live@577566/master.m3u8
+#EXTINF:-1, TVOne
+https://kmklive-lh.akamaihd.net/i/tvone_live@577566/master.m3u8
+#EXTINF:-1, MNC TV
+https://kmklive-lh.akamaihd.net/i/mnctv_live@137568/master.m3u8
+#EXTINF:-1, RTV
+https://kmklive-lh.akamaihd.net/i/rtv_live@137568/master.m3u8
+#EXTINF:-1, Trans TV
+https://kmklive-lh.akamaihd.net/i/transtv_live@94476/master.m3u8
+#EXTINF:-1, DW
+https://kmklive-lh.akamaihd.net/i/dwtv_live@137568/master.m3u8
+#EXTINF:-1, iNewsTV
+https://kmklive-lh.akamaihd.net/i/inewstv_live@94479/master.m3u8
+#EXTINF:-1, Jak TV
+https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/master.m3u8
+#EXTINF:-1, Kompas TV
+https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/master.m3u8
+#EXTINF:-1, RCTI
+https://cdn-livetv2.metube.id/hls/rcti.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://imgur.com/2TSc2pJ.png" tvg-country="KR" tvg-url="" group-title="",Animax
+http://211.49.191.148:9981/stream/channelid/1158483964
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" tvg-country="KR" tvg-url="" group-title="",Arirang HD
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" tvg-country="KR" tvg-url="" group-title="",Arirang HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" tvg-country="KR" tvg-url="" group-title="",CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" tvg-country="KR" tvg-url="" group-title="",CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" tvg-country="KR" tvg-url="" group-title="",CBS
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/SQI9PAz.png" tvg-country="KR" tvg-url="" group-title="Religious",CGNTV
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/4xAUMIZ.png" tvg-country="KR" tvg-url="" group-title="",EBS 1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/4xAUMIZ.png" tvg-country="KR" tvg-url="" group-title="",EBS 1
+http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/4xAUMIZ.png" tvg-country="KR" tvg-url="" group-title="",EBS 1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/4xAUMIZ.png" tvg-country="KR" tvg-url="" group-title="",EBS 1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/4xAUMIZ.png" tvg-country="KR" tvg-url="" group-title="",EBS 1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBS 2" tvg-language="Korean" tvg-logo="https://i.imgur.com/jbjqCrN.png" tvg-country="KR" tvg-url="" group-title="Entertainment",EBS 2
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBS 2" tvg-language="Korean" tvg-logo="https://i.imgur.com/jbjqCrN.png" tvg-country="KR" tvg-url="" group-title="Entertainment",EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBS 2" tvg-language="Korean" tvg-logo="https://i.imgur.com/jbjqCrN.png" tvg-country="KR" tvg-url="" group-title="Entertainment",EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/gdikv72.png" tvg-country="KR" tvg-url="" group-title="Kids",EBS Kids
+http://bit.ly/2NFCRjg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/gdikv72.png" tvg-country="KR" tvg-url="" group-title="Kids",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/gdikv72.png" tvg-country="KR" tvg-url="" group-title="Kids",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/8QD35iM.png" tvg-country="KR" tvg-url="" group-title="",EBS+1
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/WgyeFEP.png" tvg-country="KR" tvg-url="" group-title="",EBS+2
+http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/WgyeFEP.png" tvg-country="KR" tvg-url="" group-title="",EBS+2
+http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/0Yrtacz.png" tvg-country="KR" tvg-url="" group-title="",EBSe
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/0Yrtacz.png" tvg-country="KR" tvg-url="" group-title="",EBSe
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/Ze57sqQ.png" tvg-country="KR" tvg-url="" group-title="",EBSi
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="http://i.imgur.com/B6vXfKu.png" tvg-country="KR" tvg-url="" group-title="",ETN  SD
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/WRzx3F9.png" tvg-country="KR" tvg-url="" group-title="",Fox Life
+http://211.49.191.148:9981/stream/channelid/1960414728
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/JmjsOQs.jpg" tvg-country="KR" tvg-url="" group-title="",G1
+http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/4DEUpdm.jpg" tvg-country="KR" tvg-url="" group-title="",K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/4DEUpdm.jpg" tvg-country="KR" tvg-url="" group-title="",K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/4DEUpdm.jpg" tvg-country="KR" tvg-url="" group-title="",K+
+http://210.210.155.35/uq2663/h/h08/index1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/4DEUpdm.jpg" tvg-country="KR" tvg-url="" group-title="",K+
+http://210.210.155.35/uq2663/h/h08/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/4DEUpdm.jpg" tvg-country="KR" tvg-url="" group-title="",K+
+http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="" tvg-country="KP" tvg-url="" group-title="",Korean Central Television
+https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/lJdOstp.png" tvg-country="KR" tvg-url="" group-title="",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/S1YWrNd.jpg" tvg-country="KR" tvg-url="" group-title="",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/eekIYVn.jpg" tvg-country="KR" tvg-url="" group-title="",TV Chosun
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/eekIYVn.jpg" tvg-country="KR" tvg-url="" group-title="",TV Chosun
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/jgexArm.png" tvg-country="KR" tvg-url="" group-title="",YTN
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YTN DMB" tvg-language="Korean" tvg-logo="https://i.imgur.com/fdFQonN.jpg" tvg-country="KR" tvg-url="" group-title="",YTN DMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/AkqrMqB.png" tvg-country="KR" tvg-url="" group-title="",YTN KOREA
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b732000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/AkqrMqB.png" tvg-country="KR" tvg-url="" group-title="",YTN KOREA
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/FIzME5L.jpg" tvg-country="KR" tvg-url="" group-title="",YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/FIzME5L.jpg" tvg-country="KR" tvg-url="" group-title="",YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
